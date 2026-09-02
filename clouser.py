@@ -4,5 +4,5 @@ def outer (name):
 
     return inner
 
-message = outer ("Subbu")
+message = outer ("Hello Subbu")
 message()
